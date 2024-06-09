@@ -15,10 +15,11 @@ This resource of public configurations using public datasets exists to help peop
 A continued pretrained version of [Prince Canuma](https://huggingface.co/prince-canuma)'s downcycled Llama 3 6B.
 
 - Model: https://huggingface.co/prince-canuma/Llama-3-6B-v0.1
-- W&B: https://wandb.ai/prince-canuma/llama-3-6b
+- W&B: https://wandb.ai/prince-canuma/llama-3-6b/runs/ueldabof
 - Dataset: https://huggingface.co/datasets/prince-canuma/fineweb-CC-MAIN-2024-10-1B-en
 <details><summary>See YAML</summary>
-
+- GPU: 4x RTX 6000 Ada Generation
+- Training Time: 4d 15h
 
 axolotl version: `0.4.0`
 ```yaml
